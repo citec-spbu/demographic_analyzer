@@ -1,6 +1,6 @@
 # demographic_analyzer
 Сервис по анализу мировых демографических процессов
-# Backend
+# [Backend](https://github.com/web-ds-demographic/demographic-analyzer-back)
 ## Технологии и инструменты
 - Python (Бэкенд)
 - Django
@@ -30,7 +30,7 @@ pip install -r requirements.txt
 python3 manage.py migrate
 ```
 
-# Frontend
+# [Frontend](https://github.com/st1gmat/demographic-analyzer-front)
 
 ## Технологии и инструменты
 
